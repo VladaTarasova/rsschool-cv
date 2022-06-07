@@ -21,3 +21,23 @@ I’m a third-year student of KIT. The fourth semester has already finished and 
 * Git, GitHub
 * Figma
 * VS Code, Visual Studio
+
+### Code Example:
+
+```
+
+function fakeBin(x){
+  let result = '';
+  
+  for (let i = 0; i < x.length; i++) {
+    if (x[i] < 5) {
+      result += x[i].replace(x[i], '0');
+    } else {
+      result += x[i].replace(x[i], '1');
+    }
+  }
+  
+  return result;
+}
+
+```
