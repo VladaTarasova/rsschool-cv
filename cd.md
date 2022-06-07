@@ -41,3 +41,11 @@ function fakeBin(x){
 }
 
 ```
+
+### Education:
+
+* **College:** The student of College of Information Technology
+  - Information systems and programming
+* **Courses:** 
+  - [HTML Academy](https://www.htmlacademy.ru/)
+  - [FreeCodeCamp](https://www.freecodecamp.org/)
