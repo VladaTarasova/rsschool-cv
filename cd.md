@@ -49,3 +49,8 @@ function fakeBin(x){
 * **Courses:** 
   - [HTML Academy](https://www.htmlacademy.ru/)
   - [FreeCodeCamp](https://www.freecodecamp.org/)
+
+### Languages:
+
+* English – Intermediate
+* Russian - Native
